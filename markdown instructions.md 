@@ -1,0 +1,46 @@
+# Instructions for working with GIT
+
+### ! Именна файлов обязытельно указываем с раширениями и не теряем "пробелы".
+
+### ! Помним,что GIT управляет сохранёнными файлами, а не теми, что в процессе редоктирования.
+
+**Git init** - initializing the local repository
+
+**Git status** - get information from git about its current state
+
+**Git add** - add file or files to next commit
+
+**Git add .** - save all files that have been added to our repository. Added **30** images - git add . will save all **30** files at once
+
+**Git commit -m “message”** - creating a commit
+
+**Git log** - displaying the history of all commits with their hash codes
+
+**Git checkout** - moving from one commit to another
+
+**Git checkout master** - return to the current state and continue working
+
+**Git diff** - see the difference between the current file and the committed file
+
+**Git branch_to_delete** - deleting branches
+
+**Git log --Graph** - The -graf switch in conjunction with the log command allows you to display commits in the form of a tree
+
+**Git branch** - show a list of all branches on the screen
+
+**Git merge branch_name** - merging branches
+
+**Git merge list** - add information from the leaf branch to the current lists
+
+**Git branch -d branc_name** - *deletion algorithm:*
+#### 1. check for the existence of a branch 
+#### 2. if it exists, then delete the branch.
+#### "-d - delete"
+
+**![text](URL)** - Syntax for inserting an image in Git 
+
+> ![picture_markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/550px-Markdown-mark.svg.png)
+
+><div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/349qKnoIBHK1i" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/reaction-program-programmers-349qKnoIBHK1i">via GIPHY</a></p>
+
+![myfile](https://user-images.githubusercontent.com/52455330/139071980-91302a8a-37b1-4196-803e-f91b1de2ee5b.gif)
