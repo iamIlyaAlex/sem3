@@ -1,6 +1,6 @@
 > Project located on github
 
-![pull_request](/Users/ilyaalex/Library/Mobile Documents/com~apple~CloudDocs/GeekBrains guide/GB_educations/Git_education_sem3/sem3/pull_request.png)
+![pull_request](pull_request.png)
 
 1 - We make a fork of the repository we are interested in. 
 
